@@ -1,0 +1,10 @@
+Right-handed alpha,132085
+Right-handed omega,0
+Right-handed pi,0
+Right-handed gamma,0
+Right-handed 3 - 10,46522
+Left-handed alpha,0
+Left-handed omega,1
+Left-hended gamma,0
+2 - 7 ribbon/helix,0
+Polyproline,2
